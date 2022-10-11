@@ -1,0 +1,16 @@
+com\gerenciador\demo\repository\FornecedorRepository.class
+com\gerenciador\demo\service\PessoaServiceImpl.class
+com\gerenciador\demo\service\FornecedorServiceImpl.class
+com\gerenciador\demo\DemoApplication.class
+com\gerenciador\demo\service\ProdutoService.class
+com\gerenciador\demo\service\ProdutoServiceImpl.class
+com\gerenciador\demo\repository\ProdutoRepository.class
+com\gerenciador\demo\controller\PessoaController.class
+com\gerenciador\demo\repository\PessoaRepository.class
+com\gerenciador\demo\service\FornecedorService.class
+com\gerenciador\demo\model\Fornecedor.class
+com\gerenciador\demo\controller\FornecedorController.class
+com\gerenciador\demo\service\PessoaService.class
+com\gerenciador\demo\model\Pessoa.class
+com\gerenciador\demo\controller\ProdutoController.class
+com\gerenciador\demo\model\Produto.class
